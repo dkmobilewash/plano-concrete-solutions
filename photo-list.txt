@@ -1,0 +1,167 @@
+PLANO CONCRETE SOLUTIONS — PHOTO LIST
+=======================================
+Total photos needed: 40
+
+All photos should be high-resolution, landscape orientation, and well-lit.
+Name each file exactly as listed below and place it in the corresponding folder.
+
+
+=== HERO / BANNER IMAGES (18 photos) ===
+Recommended size: 1920x800 px or larger, landscape, JPG
+
+Location: public/images/
+
+  1.  hero-home.jpg
+      - Used on: Homepage (full-screen hero)
+      - Subject: Wide shot of a completed concrete project (driveway, patio, or crew at work)
+      - Size: 1920x1080 px
+
+  2.  hero-services.jpg
+      - Used on: Services overview page
+      - Subject: Crew pouring or finishing concrete, action shot
+
+  3.  hero-gallery.jpg
+      - Used on: Gallery page
+      - Subject: Showcase of finished work — aerial or wide angle of a completed project
+
+  4.  hero-contact.jpg
+      - Used on: Contact page
+      - Subject: Friendly crew shot, truck on site, or a clean finished project
+
+
+Location: public/images/services/
+
+  5.  driveways.jpg
+      - Used on: Driveways service page hero + service card thumbnail
+      - Subject: Completed concrete driveway (broom finish, stamped, or exposed aggregate)
+
+  6.  patios.jpg
+      - Used on: Patios service page hero + service card thumbnail
+      - Subject: Finished patio — stamped or stained, ideally with outdoor furniture
+
+  7.  pool-decks.jpg
+      - Used on: Pool Decks service page hero + service card thumbnail
+      - Subject: Pool deck with cool deck or textured finish, pool visible
+
+  8.  block-walls.jpg
+      - Used on: Block Walls service page hero + service card thumbnail
+      - Subject: Completed retaining wall or privacy wall
+
+  9.  foundations.jpg
+      - Used on: Foundations & Slabs service page hero + service card thumbnail
+      - Subject: Foundation pour in progress or completed slab with rebar/PT cables visible
+
+  10. commercial.jpg
+      - Used on: Commercial Concrete service page hero + service card thumbnail
+      - Subject: Commercial project — parking lot, sidewalk, loading dock, or warehouse floor
+
+
+Location: public/images/areas/
+
+  11. west-plano.jpg
+      - Used on: West Plano service area page hero
+      - Subject: Residential concrete project in an established neighborhood setting
+
+  12. east-plano.jpg
+      - Used on: East Plano service area page hero
+      - Subject: Driveway or slab project, clean residential setting
+
+  13. north-plano.jpg
+      - Used on: North Plano service area page hero
+      - Subject: Patio or pool deck project, newer home / larger lot
+
+  14. downtown-plano.jpg
+      - Used on: Downtown Plano service area page hero
+      - Subject: Decorative concrete — stamped driveway or walkway near a bungalow/historic home
+
+  15. legacy-west.jpg
+      - Used on: Legacy West service area page hero
+      - Subject: Commercial or high-end residential concrete, modern setting
+
+  16. willow-bend.jpg
+      - Used on: Willow Bend service area page hero
+      - Subject: High-end stamped or decorative concrete, estate-style property
+
+  17. deerfield.jpg
+      - Used on: Deerfield service area page hero
+      - Subject: Clean driveway replacement, well-maintained neighborhood
+
+  18. preston-meadow.jpg
+      - Used on: Preston Meadow service area page hero
+      - Subject: Backyard patio or pool deck, family-friendly setting
+
+
+=== GALLERY IMAGES (16 photos) ===
+Recommended size: 800x600 px or larger, landscape, JPG
+
+Location: public/images/gallery/
+
+  DRIVEWAYS (3 photos):
+  19. gallery-driveway-01.jpg  —  Stamped concrete driveway
+  20. gallery-driveway-02.jpg  —  Broom finish driveway replacement
+  21. gallery-driveway-03.jpg  —  Exposed aggregate driveway
+
+  PATIOS (3 photos):
+  22. gallery-patio-01.jpg     —  Extended patio with stamped concrete
+  23. gallery-patio-02.jpg     —  Covered patio with stained concrete floor
+  24. gallery-patio-03.jpg     —  Stamped patio with fire pit area
+
+  POOL DECKS (3 photos):
+  25. gallery-pool-01.jpg      —  Cool deck pool surround
+  26. gallery-pool-02.jpg      —  Textured pool deck resurfacing
+  27. gallery-pool-03.jpg      —  Large pool deck with multiple levels
+
+  BLOCK WALLS (2 photos):
+  28. gallery-wall-01.jpg      —  CMU retaining wall with stone cap
+  29. gallery-wall-02.jpg      —  Privacy wall with stucco finish
+
+  FOUNDATIONS (2 photos):
+  30. gallery-foundation-01.jpg — Post-tension foundation pour
+  31. gallery-foundation-02.jpg — Garage slab with control joints
+
+  COMMERCIAL (3 photos):
+  32. gallery-commercial-01.jpg — Commercial parking lot section pour
+  33. gallery-commercial-02.jpg — ADA-compliant sidewalk and ramp
+  34. gallery-commercial-03.jpg — Commercial warehouse floor pour
+
+
+=== SERVICE CARD THUMBNAILS (6 photos) ===
+These can be cropped versions of the service hero images (#5–#10 above).
+If providing separate files, place them here:
+
+Location: public/images/services/
+
+  35. driveways-thumb.jpg      —  Driveway thumbnail (or reuse driveways.jpg)
+  36. patios-thumb.jpg         —  Patio thumbnail (or reuse patios.jpg)
+  37. pool-decks-thumb.jpg     —  Pool deck thumbnail (or reuse pool-decks.jpg)
+  38. block-walls-thumb.jpg    —  Block wall thumbnail (or reuse block-walls.jpg)
+  39. foundations-thumb.jpg    —  Foundation thumbnail (or reuse foundations.jpg)
+  40. commercial-thumb.jpg     —  Commercial thumbnail (or reuse commercial.jpg)
+
+
+=== SOCIAL / BRANDING (1 image) ===
+
+Location: public/
+
+  41. og-image.jpg
+      - Used on: Social media sharing preview (Facebook, Twitter, iMessage, etc.)
+      - Subject: Company logo or branded image with "Plano Concrete Solutions" text
+      - Size: 1200x630 px (required for Open Graph)
+
+
+=== OPTIONAL ===
+
+  42. favicon.ico
+      - Used on: Browser tab icon
+      - Subject: Small logo mark or "PCS" initials
+      - Size: 32x32 px or 64x64 px (ICO format)
+
+
+=======================================
+NOTES:
+- If you reuse the 6 service hero images as thumbnails, you only need 35 unique photos.
+- All photos should be your own work or properly licensed stock photos.
+- JPG format recommended for photos. PNG for logos/icons only.
+- Keep file sizes reasonable — aim for under 500KB per image after compression.
+- Landscape orientation works best for all hero and gallery images.
+=======================================
