@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://planoconcretesolutions.com
+
+# Sitemaps
+Sitemap: https://planoconcretesolutions.com/sitemap.xml
