@@ -36,7 +36,7 @@ export default function ContactPage() {
         subtitle="Tell us about your project and we'll get back to you within 1 business day."
         ctaText="Call Now"
         ctaHref={PHONE_TEL}
-        imageSrc="https://picsum.photos/seed/contact/1920/600"
+        imageSrc="/plano-concrete-solutions-photos-named/hero-contact.jpg"
         imageAlt="Contact Plano Concrete Solutions"
         shortHeight
       />

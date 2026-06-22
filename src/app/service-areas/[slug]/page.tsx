@@ -63,7 +63,7 @@ export default async function ServiceAreaPage({ params }: PageProps) {
         subtitle={location.heroSubtitle}
         ctaText="Get a Free Estimate"
         ctaHref="/contact"
-        imageSrc={`https://picsum.photos/seed/${location.slug}/1920/800`}
+        imageSrc={`/plano-concrete-solutions-photos-named/${location.slug}.jpg`}
         imageAlt={`Concrete services in ${location.area}, Plano TX`}
       />
 

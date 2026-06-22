@@ -26,7 +26,7 @@ export default function ServicesPage() {
         subtitle="From residential driveways to commercial parking lots — every project gets the same commitment to quality."
         ctaText="Get a Free Estimate"
         ctaHref="/contact"
-        imageSrc="https://picsum.photos/seed/services/1920/800"
+        imageSrc="/plano-concrete-solutions-photos-named/hero-services.jpg"
         imageAlt="Concrete services in Plano, Texas"
       />
 

@@ -2,6 +2,15 @@ import Image from "next/image";
 import Link from "next/link";
 import { services } from "@/data/services";
 
+const serviceImages: Record<string, string> = {
+  driveways: "/plano-concrete-solutions-photos-named/driveways-thumb.jpg",
+  patios: "/plano-concrete-solutions-photos-named/patios-thumb.jpg",
+  "pool-decks": "/plano-concrete-solutions-photos-named/pool-decks.jpg",
+  "block-walls": "/plano-concrete-solutions-photos-named/block-walls.jpg",
+  "foundations-slabs": "/plano-concrete-solutions-photos-named/foundations.jpg",
+  "commercial-concrete": "/plano-concrete-solutions-photos-named/commercial.jpg",
+};
+
 const serviceDescriptions: Record<string, string> = {
   driveways:
     "Durable concrete driveways engineered for North Texas clay soil and summer heat. Custom finishes from broom to stamped.",
@@ -27,7 +36,7 @@ export default function ServicesGrid() {
         >
           <div className="relative overflow-hidden">
             <Image
-              src={`https://picsum.photos/seed/${service.slug}/800/600`}
+              src={serviceImages[service.slug] || service.heroImage}
               alt={service.name}
               width={400}
               height={300}

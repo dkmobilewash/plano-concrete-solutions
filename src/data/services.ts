@@ -8,7 +8,7 @@ export const services: Service[] = [
     metaTitle: "Concrete Driveways in Plano TX | Plano Concrete Solutions",
     metaDescription:
       "Professional concrete driveway installation and replacement in Plano, TX. Stamped, broom finish, and exposed aggregate options. Call (214) 751-8014.",
-    heroImage: "https://picsum.photos/seed/driveways/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/driveways.jpg",
     heroSubtitle:
       "Built to handle North Texas heat and engineered for the clay soil beneath your property.",
     intro: `Your driveway is the first thing visitors see and the surface your family uses every single day. In Plano, that means it needs to handle summer temperatures that push well past 100°F, survive the expansion and contraction of North Texas clay soil, and still look sharp year after year.
@@ -77,7 +77,7 @@ Many Plano neighborhoods — especially in established areas like Deerfield and 
     metaTitle: "Concrete Patios in Plano TX | Plano Concrete Solutions",
     metaDescription:
       "Custom concrete patios for Plano, TX homes. Stamped, stained, and cool deck options for outdoor living. Free estimates — call (214) 751-8014.",
-    heroImage: "https://picsum.photos/seed/patios/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/patios.jpg",
     heroSubtitle:
       "Outdoor living starts with a surface built to handle Texas summers and years of daily use.",
     intro: `In Plano, your patio isn't a seasonal space — it's an extension of your home that gets used eight or nine months out of the year. That means the surface you choose matters. It needs to stand up to direct sun, pool splash, foot traffic, grills, furniture, and the occasional hailstorm.
@@ -151,7 +151,7 @@ Whether you're adding a new patio behind your home, extending an existing slab, 
     metaTitle: "Pool Deck Concrete in Plano TX | Plano Concrete Solutions",
     metaDescription:
       "Cool deck coatings and concrete pool deck installation in Plano, TX. Slip-resistant, heat-reflective finishes. Call (214) 751-8014 for a free estimate.",
-    heroImage: "https://picsum.photos/seed/pooldecks/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/pool-decks.jpg",
     heroSubtitle:
       "Slip-resistant, cool-to-the-touch surfaces built for Texas pool seasons that last seven months.",
     intro: `Plano homeowners rely on their pools from April through October — and sometimes longer. That's seven months of barefoot traffic, chlorinated splash, direct sun exposure, and surface temperatures that can make an uncoated deck painful to walk on.
@@ -220,7 +220,7 @@ We install new concrete pool decks and resurface existing ones with cool deck co
     metaTitle: "Block Wall Construction in Plano TX | Plano Concrete Solutions",
     metaDescription:
       "CMU block walls, retaining walls, and privacy walls in Plano, TX. Licensed and insured. Call (214) 751-8014 for a free estimate.",
-    heroImage: "https://picsum.photos/seed/blockwalls/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/block-walls.jpg",
     heroSubtitle:
       "Retaining walls, privacy walls, and garden borders built to last across Plano's neighborhoods.",
     intro: `Retaining walls, privacy walls, and garden borders are a common need across Plano's established and newer neighborhoods. Whether you're managing a grade change in your backyard, adding privacy to a side yard, or building a raised garden bed, CMU block construction delivers strength and longevity that other materials can't match.
@@ -295,7 +295,7 @@ We build block walls of all sizes across Plano, from small garden retaining wall
       "Foundation & Slab Concrete in Plano TX | Plano Concrete Solutions",
     metaDescription:
       "Concrete foundations and slabs for Plano, TX — post-tension and conventional. Engineered for North Texas clay soil. Call (214) 751-8014.",
-    heroImage: "https://picsum.photos/seed/foundations/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/foundations.jpg",
     heroSubtitle:
       "Engineered for North Texas clay soil — conventional and post-tension slabs built to code.",
     intro: `North Texas clay soil expands and contracts with every rain cycle — a foundation that isn't engineered for it will crack. Plano sits squarely on this expansive clay, and every slab we pour is designed to handle the ground movement that comes with the territory.
@@ -370,7 +370,7 @@ Every foundation project starts with a soil assessment and engineered design. We
       "Commercial Concrete Contractor Plano TX | Plano Concrete Solutions",
     metaDescription:
       "Commercial concrete services in Plano, TX — parking lots, sidewalks, warehouse floors, and ADA hardscaping. Bonded & insured. Call (214) 751-8014.",
-    heroImage: "https://picsum.photos/seed/commercial/1920/800",
+    heroImage: "/plano-concrete-solutions-photos-named/commercial.jpg",
     heroSubtitle:
       "Parking lots, sidewalks, warehouse floors, and ADA-compliant hardscaping for Plano businesses.",
     intro: `Plano is home to dozens of corporate campuses, retail centers, and growing business parks — especially along the 121 corridor and Legacy West district. Commercial concrete demands a different approach than residential work: tighter tolerances, heavier load ratings, ADA compliance, and schedules that minimize disruption to your business.
